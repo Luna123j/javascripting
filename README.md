@@ -1,0 +1,1 @@
+### This repo contains practice solution for some technical questions
